@@ -1,4 +1,4 @@
-Полезные ссылки найденные по ходу пьессы:
+Полезные ссылки:
 
-https://ethereumbook.ru/
+https://masteringethereum.xyz/ | https://ethereumbook.ru/  
 https://docs.openzeppelin.com/
